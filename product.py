@@ -1,3 +1,5 @@
 print('Hello World')
 print('674070310042')
 print('ทวีชัย')
+
+print('ที่เพื่อนแก้ไขแล้ว')
